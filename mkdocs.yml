@@ -1,0 +1,12 @@
+site_name: "Middle East Finance & Tax Today"
+site_description: "Insights, updates, and guidance on Middle East finance and tax policies."
+site_author: "mefinancetaxtoday"
+
+# HTML/custom landing page serve karne ke liye default theme configuration
+theme:
+  name: null
+  custom_dir: 'docs'
+
+# MkDocs pages array
+nav:
+  - Home: index.html
